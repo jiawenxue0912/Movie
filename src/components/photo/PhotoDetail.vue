@@ -27,7 +27,7 @@
     },
     computed:{
       styleObj(){
-        return ` background: #000 url("/static/img/${this.thisIndex}.jpg") no-repeat center/contain; `
+        return ` background: #000 url("./static/img/${this.thisIndex}.jpg") no-repeat center/contain; `
       }
     },
     methods:{
