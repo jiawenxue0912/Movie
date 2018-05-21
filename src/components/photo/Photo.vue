@@ -16,7 +16,7 @@
     },
     store,
     created(){
-      this.$store.commit('routerLinks' ,{
+      this.$store.commit('routerLink' ,{
         color:"rgb(63,81,181)",
         title:"图片"
       });
