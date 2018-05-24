@@ -10,6 +10,7 @@ import PhotoDetail from '@/components/photo/PhotoDetail'
 
 
 
+
 Vue.use(Router);
 
 export default new Router({
